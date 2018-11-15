@@ -156,7 +156,7 @@ char translate (char input[MAX_LETTER_INPUT], char pigLatin[MAX_LETTER_INPUT])
     else if (ifNumber(input))
     {
         strcpy(pigLatin, input);
-        cout << "Sorry,  I can't translate \""<< pigLatin << "\" because I can't translate umber! " << endl;
+        cout << "Sorry,  I can't translate \""<< pigLatin << "\" because I can't translate number! " << endl;
         return -1;
     }
     
