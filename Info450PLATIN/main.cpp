@@ -60,12 +60,11 @@ void welcomeMessage()
 void byeMessage()
 {
     cout << endl;
-    cout << "**" << " ****************************** " << "**" << endl;
-    cout << "**" << "    Thank You for Choosing Us   " << "**" << endl;
-    cout << "**" << "     Our PigLatin Translator    " << "**" << endl;
-    cout << "**" << "        Come BacK Soon         " << "**" << endl;
-    cout << "**" << "      We are working on        " << "**" << endl;
-    cout << "**" << " *******************************" << "**" << endl;
+    cout << "**" << " *****************************" << "**" << endl;
+    cout << "**" << "  Thank You for Choosing      " << "**" << endl;
+    cout << "**" << "   Our PigLatin Translator    " << "**" << endl;
+    cout << "**" << "      Come Back Soon          " << "**" << endl;
+    cout << "**" << " *****************************" << "**" << endl;
     cout << endl;
 }
 
