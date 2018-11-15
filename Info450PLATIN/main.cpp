@@ -12,6 +12,7 @@ bool ifVow ( char vol);
 bool ifNumber (char input[MAX_LETTER_INPUT]);
 bool ifTooShort (char input[MAX_LETTER_INPUT]);
 char translate (char input[MAX_LETTER_INPUT], char pigLatin[MAX_LETTER_INPUT]);
+bool ifConjunction (char input[MAX_LETTER_INPUT]);
 
 
 int main()
